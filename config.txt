@@ -1,4 +1,4 @@
-token=NDkyNDYxMzIyMjk0OTE5MTc5.DoWwSQ.LD33YbkcU1szAbRASLbdrhtY2RwERE
+token=NDkyNDYxMzIyMjk0OTE5MTc5.DoWwSQ.LD33YbkcU1szAbRASLbdrhtY2Rw
 owner=332154174793842698
 prefix=D
 game=
